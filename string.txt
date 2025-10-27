@@ -1,0 +1,14 @@
+1.
+2. concAt()
+3.charAt()///
+4.charcodeAt()
+5. Substring()
+6.at()
+7.slice()
+8.toUppercase()
+9.tolowercase()
+10.trim() , trim start(), trimEnd()
+11.repaer()
+12.replacer()
+13.replaceAll()
+14.split()
